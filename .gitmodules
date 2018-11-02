@@ -1,0 +1,3 @@
+[submodule "Plugins/taskeditor"]
+	path = Plugins/taskeditor
+	url = https://github.com/xiongyaya/taskeditor.git

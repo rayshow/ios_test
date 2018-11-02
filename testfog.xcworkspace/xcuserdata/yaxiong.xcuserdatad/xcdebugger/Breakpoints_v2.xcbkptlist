@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Users/yaxiong/release/xgame/trunk/UE4.20.1Release/Engine/Source/Runtime/Renderer/Private/RendererScene.cpp"
+            timestampString = "560984079.373898"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2428"
+            endingLineNumber = "2428"
+            landmarkName = "FScene::BlendExponentialHeightFog(FVector InViewLocation)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Users/yaxiong/release/xgame/trunk/UE4.20.1Release/Engine/Source/Runtime/Renderer/Private/SceneCore.cpp"
+            timestampString = "560981485.361681"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "443"
+            endingLineNumber = "443"
+            landmarkName = "FExponentialHeightFogSceneInfo::SetComponent(const UExponentialHeightFogComponent* InComponent)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FScene::BlendExponentialHeightFog(FVector)"
+                  moduleName = "UE4Editor-Renderer.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yaxiong/release/xgame/trunk/UE4.20.1Release/Engine/Source/Runtime/Renderer/Private/SceneCore.cpp"
+                  timestampString = "560982399.622844"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "443"
+                  endingLineNumber = "443"
+                  offsetFromSymbolStart = "1781">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FScene::BlendExponentialHeightFog(FVector)"
+                  moduleName = "UE4Editor-Renderer.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yaxiong/release/xgame/trunk/UE4.20.1Release/Engine/Source/Runtime/Renderer/Private/SceneCore.cpp"
+                  timestampString = "560982399.6271729"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "443"
+                  endingLineNumber = "443"
+                  offsetFromSymbolStart = "4093">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FExponentialHeightFogSceneInfo::SetComponent(UExponentialHeightFogComponent const*)"
+                  moduleName = "UE4Editor-Renderer.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yaxiong/release/xgame/trunk/UE4.20.1Release/Engine/Source/Runtime/Renderer/Private/SceneCore.cpp"
+                  timestampString = "560982399.633032"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "443"
+                  endingLineNumber = "443"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Users/yaxiong/release/xgame/trunk/UE4.20.1Release/Engine/Source/Runtime/Renderer/Private/RendererScene.cpp"
+            timestampString = "560984079.374307"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2413"
+            endingLineNumber = "2413"
+            landmarkName = "FScene::BlendExponentialHeightFog(FVector InViewLocation)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Users/yaxiong/release/xgame/trunk/UE4.20.1Release/Engine/Source/Runtime/Renderer/Private/SceneCore.cpp"
+            timestampString = "560982183.7120399"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "442"
+            endingLineNumber = "442"
+            landmarkName = "FExponentialHeightFogSceneInfo::SetComponent(const UExponentialHeightFogComponent* InComponent)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FScene::BlendExponentialHeightFog(FVector)"
+                  moduleName = "UE4Editor-Renderer.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yaxiong/release/xgame/trunk/UE4.20.1Release/Engine/Source/Runtime/Renderer/Private/SceneCore.cpp"
+                  timestampString = "560982399.6568381"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "442"
+                  endingLineNumber = "442"
+                  offsetFromSymbolStart = "1766">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FScene::BlendExponentialHeightFog(FVector)"
+                  moduleName = "UE4Editor-Renderer.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yaxiong/release/xgame/trunk/UE4.20.1Release/Engine/Source/Runtime/Renderer/Private/SceneCore.cpp"
+                  timestampString = "560982399.65991"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "442"
+                  endingLineNumber = "442"
+                  offsetFromSymbolStart = "4076">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FExponentialHeightFogSceneInfo::SetComponent(UExponentialHeightFogComponent const*)"
+                  moduleName = "UE4Editor-Renderer.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yaxiong/release/xgame/trunk/UE4.20.1Release/Engine/Source/Runtime/Renderer/Private/SceneCore.cpp"
+                  timestampString = "560982399.66274"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "442"
+                  endingLineNumber = "442"
+                  offsetFromSymbolStart = "17">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Users/yaxiong/release/xgame/trunk/UE4.20.1Release/Engine/Source/Runtime/Renderer/Private/RendererScene.cpp"
+            timestampString = "560984079.3744299"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2415"
+            endingLineNumber = "2415"
+            landmarkName = "FScene::BlendExponentialHeightFog(FVector InViewLocation)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Users/yaxiong/release/xgame/trunk/UE4.20.1Release/Engine/Source/Runtime/Renderer/Private/RendererScene.cpp"
+            timestampString = "560984079.3744971"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2418"
+            endingLineNumber = "2418"
+            landmarkName = "FScene::BlendExponentialHeightFog(FVector InViewLocation)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Users/yaxiong/release/xgame/trunk/UE4.20.1Release/Engine/Source/Runtime/Renderer/Private/RendererScene.cpp"
+            timestampString = "560984079.374558"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2417"
+            endingLineNumber = "2417"
+            landmarkName = "FScene::BlendExponentialHeightFog(FVector InViewLocation)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Users/yaxiong/release/xgame/trunk/UE4.20.1Release/Engine/Source/Runtime/Renderer/Private/RendererScene.cpp"
+            timestampString = "560984079.3746049"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2427"
+            endingLineNumber = "2427"
+            landmarkName = "FScene::BlendExponentialHeightFog(FVector InViewLocation)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
